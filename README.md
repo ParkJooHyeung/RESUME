@@ -1,6 +1,7 @@
 # RESUME
 
 ## 소개
+![](https://github.com/ParkJooHyeung/RESUME/blob/main/images/%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%AE%E1%84%92%E1%85%A7%E1%86%BC%20(1).JPG)
 * 이름: 박주형
 * 군필여부: 해병대 병장 만기전역
 * 취미: 헬스, 달리기, 음악감상, 스노우보드 타기, 학술논문읽기, 뮤지컬관람, 자기개발서읽기
@@ -15,6 +16,9 @@
 ```
 좌우명
 ```
+
+![](https://github.com/ParkJooHyeung/RESUME/blob/main/images/contributions.png)
+
 
 ## 학력
 * 광운대학교 - 재학(2019년 3월 ~ )

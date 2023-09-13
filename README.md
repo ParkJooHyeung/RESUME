@@ -21,7 +21,13 @@
 * 프로젝트 소개: 비전을 활용하여 스마트 검수로서 object detection 모델들을 사용하여 박스와 음료수 같은 사물들을 탐지하여 class와 수량을 check
 * 수행 역할
   * YOLO, Faster R-CNN model fine tuning
-  * 이미지
+  * 이미지데이터 가공
+  * compile error 처리
+  * 사전 모델을 이용한 custom model data 생성
+
+
+
+
 
 
 

@@ -14,7 +14,7 @@
 * Github: https://github.com/ParkJooHyeung
 
 ```
-좌우명
+느려도 좋다, 다만 방향을 잃지 말자.
 ```
 
 ![](https://github.com/ParkJooHyeung/RESUME/blob/main/images/contributions.png)
@@ -28,7 +28,7 @@
 ### CJ대한통운 미래기술챌린지 2023
 * 기간: 2023.07.04 ~ 2023.09.05
 * 주사용 모델: YOLO, Faster R-CNN
-* 프로젝트 소개: 비전을 활용하여 스마트 검수로서 object detection 모델들을 사용하여 박스와 음료수 같은 사물들을 탐지하여 class와 수량을 check
+* 프로젝트 소개: 비전을 활용하여 스마트 검수로서 object detection 모델들을 사용하여 박스와 음료수 같은 사물들을 탐지하여 class를 구별하고 수량을 check
 * 수행 역할
   * YOLO, Faster R-CNN model fine tuning
   * 이미지데이터 가공
@@ -39,11 +39,21 @@
 
 ### python
 
+* python 코딩테스트 10분대 진입
+
 ### C++
+
+* 
 
 ### 대외활동
 
+
+
+
 ### 영어
+
+
+
 
 ### 건강
 

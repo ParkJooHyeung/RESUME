@@ -37,6 +37,10 @@
 
 ## todo-list
 
+### 운영체제
+
+* Completing NDG Linux Unhatched course in the Cisco Networking Academy(2024.01.05)
+
 ### 프로그램 언어 숙달
 
 * Python: NumPy를 이용한 tensor 연산에 능숙하게 함으로써 딥러닝을 진행하는데 있어 TensorFlow, PyTorch, Chainer 등의 라이브러리를 이해하는데 큰 역할을 한다.

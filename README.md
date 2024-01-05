@@ -34,12 +34,14 @@
   * 이미지데이터 가공
   * compile error 처리
   * 사전 모델을 이용한 custom model data 생성
+ 
+## 이력
 
-## todo-list
-
-### 운영체제
+### 운영체제 
 
 * Completing NDG Linux Unhatched course in the Cisco Networking Academy(2024.01.05)
+
+## todo-list
 
 ### 프로그램 언어 숙달
 

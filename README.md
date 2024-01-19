@@ -41,6 +41,11 @@
 
 * Completing NDG Linux Unhatched course in the Cisco Networking Academy(2024.01.05)
 
+### 수료
+
+* 지능형 로봇 컨소시엄 - 파이썬 프로그래밍 기초
+* 지능형 로봇 컨소시엄 - 아두이노 기초 및 드론만등고 코딩하고 날리기
+
 ## todo-list
 
 ### 프로그램 언어 숙달

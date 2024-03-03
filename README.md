@@ -48,6 +48,10 @@
 * 한국사물지능협회 - AIoT 융합기술 리더
 * CISCO - DevNet Associate course 수료
 
+### 프로그램 언어
+
+* JavaScript - OpenEDG JavaScript Institute Authorized Academy Program 교육 수료
+
 ## todo-list
 
 ### 프로그램 언어 숙달

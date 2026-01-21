@@ -17,11 +17,10 @@
 느려도 좋다, 다만 방향을 잃지 말자.
 ```
 
-![](https://github.com/ParkJooHyeung/RESUME/blob/main/images/contributions.png)
-
 
 ## 학력
-* 광운대학교 - 재학(2019년 3월 ~ )
+* 광운대학교/전기공학과 - 졸업(2019.03 - 2025.02)
+* 광운대학교/대학원/전기공학과 - 재학(2025.3-)
 
 ## 프로젝트
 
